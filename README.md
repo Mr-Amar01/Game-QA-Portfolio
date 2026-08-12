@@ -2,60 +2,49 @@
 
 **Junior Game Tester | Game QA | Bug Reporting | Functional & Exploratory Testing**
 
-A practical game QA portfolio demonstrating testing workflows across **AAA open-world, tactical FPS, racing, and mobile battle royale** titles.
+A practical game QA portfolio demonstrating structured testing across **AAA open-world, tactical FPS, racing, and mobile battle royale** titles.
 
-> **Portfolio note:** Examples in this repository are simulated QA exercises created to demonstrate testing methodology. They are not presented as confidential work or as production defects discovered during employment.
+> **Portfolio note:** The examples in this repository are simulated QA exercises created to demonstrate testing methodology. They are not confidential work or production defects discovered during employment.
 
 ---
 
-## 👤 QA Profile
+## 👤 Profile
 
-I am a **Junior Game Tester with 1+ year of professional AAA game-testing experience**, focused on finding, reproducing, documenting, and communicating gameplay and technical issues clearly.
+Junior Game Tester with **1+ year of professional AAA game-testing experience**, focused on identifying, reproducing, documenting, and communicating gameplay and technical issues clearly.
 
-This portfolio demonstrates how I approach a game from a QA perspective—not simply how I play it.
+### Core Strengths
 
-### Core strengths
-
-- Bug reproduction and isolation
-- Clear, actionable bug reporting
 - Functional and exploratory testing
+- Bug reproduction and isolation
+- Clear, actionable defect reporting
 - Severity and priority assessment
 - Smoke and regression testing
 - Gameplay-system validation
 - Compatibility and recovery testing
-- Performance and network-focused testing
+- Performance and network testing
 - Mobile lifecycle and device testing
 - Structured QA documentation
 
 ---
 
-## 🎯 Portfolio at a Glance
+## 🎯 Portfolio Overview
 
-| Title | Genre / QA Focus | Bug Reports | Test Cases |
+| Title | Genre | Bug Reports | Test Cases |
 |---|---|---:|---:|
 | **Cyberpunk 2077** | Open-world RPG | 7 | 7 |
 | **VALORANT** | Tactical FPS | 7 | 7 |
 | **Forza Horizon 5** | Racing / Open-world | 7 | 7 |
 | **PUBG MOBILE / BGMI** | Mobile Battle Royale | 7 | 7 |
 
-**Core portfolio:** 28 simulated bug reports + 28 test cases, supported by dedicated QA planning and testing documentation.
+**Core portfolio:** 28 simulated bug reports + 28 test cases, supported by QA planning, testing checklists, and execution documentation.
 
 ---
 
-## 🧪 QA Documentation
+## 📂 Portfolio Sections
 
-| Area | What it demonstrates |
-|---|---|
-| **Test Plans** | Scope, objectives, environments, risks, entry/exit criteria and deliverables |
-| **Smoke Testing** | Fast validation of critical game functionality |
-| **Regression Testing** | Protecting existing functionality after changes |
-| **Exploratory Testing** | Risk-based testing beyond predefined test cases |
-| **Bug Triage** | Severity, priority and impact assessment |
-| **Test Execution** | Pass / Fail / Blocked / Not Run tracking |
-| **Performance Testing** | FPS, stability, loading and long-session considerations |
-| **Network Testing** | Disconnects, recovery, synchronization and network switching |
-| **Compatibility Testing** | Device, resolution and platform variations |
-| **Accessibility Testing** | UI readability, subtitles, color and input considerations |
+- **[Bug Reports](./Bug%20Reports/)** — Structured defects with severity, priority, reproduction steps, expected vs. actual results, and impact.
+- **[Test Cases](./Test%20Cases/)** — Functional and recovery-focused test scenarios with objectives, preconditions, steps, expected results, and pass criteria.
+- **[QA Documentation](./QA%20Documentation/)** — Test plans, smoke testing, regression testing, exploratory testing, bug triage, performance, network, compatibility, and accessibility documentation.
 
 ---
 
@@ -79,13 +68,13 @@ This portfolio demonstrates how I approach a game from a QA perspective—not si
 - HUD behaviour
 - Spectator mode
 - Network recovery
-- Competitive match results
+- Match results
 
 ### Forza Horizon 5 — Racing / Open-world
 
 - Vehicle behaviour
 - Race checkpoints
-- Rewind / recovery systems
+- Rewind and recovery systems
 - Open-world driving
 - Online racing
 - Audio and visual presentation
@@ -94,7 +83,7 @@ This portfolio demonstrates how I approach a game from a QA perspective—not si
 ### PUBG MOBILE / BGMI — Mobile Battle Royale
 
 - Touch controls
-- Mobile lifecycle / app resume
+- App lifecycle and resume behaviour
 - HUD scaling and aspect ratios
 - Wi-Fi / mobile-data switching
 - Incoming-call interruptions
@@ -103,35 +92,20 @@ This portfolio demonstrates how I approach a game from a QA perspective—not si
 
 ---
 
-## 📁 Repository Structure
+## 🧪 QA Documentation
 
-```text
-Game-QA-Portfolio/
-│
-├── Bug Reports/
-│   ├── Quest Bugs/
-│   ├── Valorant/
-│   ├── Forza Horizon 5/
-│   └── PUBG Mobile/
-│
-├── Test Cases/
-│   ├── Quest System/
-│   ├── Valorant/
-│   ├── Forza Horizon 5/
-│   └── PUBG Mobile/
-│
-└── QA Documentation/
-    ├── Test Plans/
-    ├── Smoke Testing/
-    ├── Regression Testing/
-    ├── Exploratory Testing/
-    ├── Bug Triage/
-    ├── Test Execution/
-    ├── Performance Testing/
-    ├── Network Testing/
-    ├── Compatibility Testing/
-    └── Accessibility Testing/
-```
+| Area | Coverage |
+|---|---|
+| **Test Plans** | Scope, objectives, environments, risks, entry/exit criteria, deliverables |
+| **Smoke Testing** | Critical functionality and build validation |
+| **Regression Testing** | Verification of existing functionality after changes |
+| **Exploratory Testing** | Risk-based testing beyond predefined scenarios |
+| **Bug Triage** | Severity, priority, impact, and reproducibility assessment |
+| **Test Execution** | Pass / Fail / Blocked / Not Run tracking |
+| **Performance Testing** | FPS, stability, loading, and long-session considerations |
+| **Network Testing** | Disconnects, recovery, synchronization, and network switching |
+| **Compatibility Testing** | Device, resolution, and platform variations |
+| **Accessibility Testing** | UI readability, subtitles, color, and input considerations |
 
 ---
 
@@ -150,11 +124,9 @@ Each defect is structured around information needed to reproduce and assess an i
 - Player / system impact
 - Verification considerations where relevant
 
----
-
 ## 🧪 Test Case Standard
 
-Test cases are written with practical execution in mind and generally include:
+Test cases generally include:
 
 - Test Case ID
 - Module
@@ -180,13 +152,12 @@ Test cases are written with practical execution in mind and generally include:
 
 ---
 
-## 📌 Portfolio Disclaimer
-
-This repository is a **personal QA portfolio**. Bug reports, test cases, execution results, and metrics explicitly identified as portfolio examples are simulated for demonstration purposes. They do not represent confidential information, proprietary test data, or undisclosed production defects from any employer.
-
----
-
 ## 🔬 QA Workflow
 
 **Plan → Test → Reproduce → Document → Prioritize → Verify → Report**
 
+---
+
+## 📌 Disclaimer
+
+This repository is a **personal QA portfolio**. Bug reports, test cases, execution results, and metrics explicitly identified as portfolio examples are simulated for demonstration purposes. They do not represent confidential information, proprietary test data, or undisclosed production defects from any employer.
