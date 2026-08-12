@@ -2,7 +2,7 @@
 
 **Junior Game Tester | Game QA | Bug Reporting | Functional & Exploratory Testing**
 
-A recruiter-focused portfolio demonstrating practical game QA workflows across **AAA open-world, tactical FPS, racing, and mobile battle royale** titles.
+A practical game QA portfolio demonstrating testing workflows across **AAA open-world, tactical FPS, racing, and mobile battle royale** titles.
 
 > **Portfolio note:** Examples in this repository are simulated QA exercises created to demonstrate testing methodology. They are not presented as confidential work or as production defects discovered during employment.
 
@@ -137,7 +137,7 @@ Game-QA-Portfolio/
 
 ## 🐛 Bug Report Standard
 
-Each defect is structured around information a developer or QA lead needs to reproduce and assess an issue:
+Each defect is structured around information needed to reproduce and assess an issue:
 
 - Bug ID and concise title
 - Environment / platform
@@ -186,10 +186,7 @@ This repository is a **personal QA portfolio**. Bug reports, test cases, executi
 
 ---
 
-## 📬 For Recruiters & QA Leads
-
-This portfolio is designed to provide a quick view of my approach to:
+## 🔬 QA Workflow
 
 **Plan → Test → Reproduce → Document → Prioritize → Verify → Report**
 
-Thank you for reviewing my work.
