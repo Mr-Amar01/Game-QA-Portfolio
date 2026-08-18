@@ -35,8 +35,9 @@ Junior Game Tester with **1+ year of professional AAA game-testing experience**,
 | **VALORANT** | Tactical FPS | 7 | 7 |
 | **Forza Horizon 5** | Racing / Open-world | 7 | 7 |
 | **PUBG MOBILE / BGMI** | Mobile Battle Royale | 7 | 7 |
+| **Red Dead Redemption 2** | Open-world Action-Adventure | 7 | 7 |
 
-**Core portfolio:** 28 simulated bug reports + 28 test cases, supported by QA planning, testing checklists, and execution documentation.
+**Core portfolio:** 35 simulated bug reports + 35 test cases, supported by QA planning, testing checklists, and execution documentation.
 
 ---
 
@@ -89,6 +90,16 @@ Junior Game Tester with **1+ year of professional AAA game-testing experience**,
 - Incoming-call interruptions
 - Extended-session performance
 - Resource downloads
+
+### Red Dead Redemption 2 — Open-world Action-Adventure
+
+- Mission progression
+- Horse interactions
+- NPC behaviour and animation
+- Weapon systems and UI
+- Wanted / law state
+- Dynamic weather and lighting
+- Save / load persistence
 
 ---
 
